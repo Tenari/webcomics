@@ -1,6 +1,7 @@
 webcomics
 =========
 For those who don't want to read the whole story, but do want the webcomic:
+
 1. save "dr_mcninja_get_from_good.rb" and "good_mcninja.txt" to your home directory
 2. make a folder at "./Pictures/drmcninja/"
 3. run "ruby dr_mcninja_get_from_good.rb" in terminal from your home directory.
