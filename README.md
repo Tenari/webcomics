@@ -7,6 +7,15 @@ For those who don't want to read the whole story, but do want the webcomic:
 3. run "ruby dr_mcninja_get_from_good.rb" in terminal from your home directory.
 4. get all of the images from Dr McNinja saved to your computer.
 
+if you also want all of smbc downloaded:
+```bash
+git clone [THIS REPO]
+cd webcomics
+mkdir smbc
+./download-smbc.rb
+wait as it tries each date
+```
+
 --------------------------------------------------------------------------------------------------------------------
 
 I like Dr.McNinja. But I don't have fast internet. I like to read webcomics through, like a book. When I try to do this online, I spend a lot of time waiting. So, I decided to just save all of the images that make up the webcomic to my computer. The following ensued:
