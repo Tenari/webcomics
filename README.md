@@ -1,5 +1,14 @@
 webcomics
 =========
+
+the more general purpose tool is found in `download-comics.rb`. If you know the dash-name of the comic that [https://comiconlinefree.net/](https://comiconlinefree.net/) uses, (like `star-wars-bounty-hunters`) then you can pull the whole run that they have by doing this:
+
+```
+webcomics % mkdir star_wars_bounty_hunters
+webcomics % ./download-comics.rb star-wars-bounty-hunters ./star_wars_bounty_hunters/
+```
+
+
 For those who don't want to read the whole story, but do want the webcomic:
 
 1. save "dr_mcninja_get_from_good.rb" and "good_mcninja.txt" to your home directory
